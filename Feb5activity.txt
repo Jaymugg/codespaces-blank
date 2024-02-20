@@ -1,0 +1,4 @@
+1 . You can drive a car without knowing how the internal combustion engine works
+2 . Intergers use whole numbers while floats don't 
+3 . A Python variable refers to the object and not the memory location
+4 . 
