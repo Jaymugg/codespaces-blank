@@ -1,0 +1,3 @@
+architecture 
+elevator 
+number 
